@@ -6,3 +6,33 @@ hr {
 	width:250px;
 	border-top: 4px solid #999 ;
 }
+
+section {
+	min-height: 600px;
+}
+
+
+.portfolio {
+	background-color: #fff;
+}	
+
+.contact {
+	min-height: 800px;
+}
+
+
+footer{
+	position: absoulute;
+	bottom: 0;
+	width:100%;
+	height: 100px;
+	background-image: url("../src/bgg.jpg");
+	background-size: 1280px;
+	padding-top: 45px;
+}
+
+footer p {
+		color:#aaa;
+		font-size: 0.9em;
+}
+
