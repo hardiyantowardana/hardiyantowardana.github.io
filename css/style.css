@@ -1,6 +1,9 @@
+body {
+	margin-top: 20px;
+}
+
 .jumbotron img {
-	width :220px;
-	border : 5px solid #666;
+	width :200px 	border : 5px solid #666;
 }
 hr {
 	width:250px;
